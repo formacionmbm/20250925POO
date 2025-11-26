@@ -5,3 +5,4 @@ public class Test {
         Animal animal1 = Animal();
     }
 }
+
