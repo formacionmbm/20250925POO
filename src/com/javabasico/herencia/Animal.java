@@ -3,6 +3,10 @@ package com.javabasico.herencia;
 public class Animal {
     private double peso;
 
+    public Animal() {
+        System.out.println("ANIMAL-Creo un animal");
+    }
+
     public double getPeso() {
         return this.peso;
     }
