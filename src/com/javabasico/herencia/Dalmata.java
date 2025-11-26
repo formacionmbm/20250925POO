@@ -1,4 +1,4 @@
 package com.javabasico.herencia;
 
-public class Dalmata {
+public class Dalmata extends Perro{
 }

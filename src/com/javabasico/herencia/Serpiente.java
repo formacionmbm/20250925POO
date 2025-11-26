@@ -1,4 +1,4 @@
 package com.javabasico.herencia;
 
-public class Serpiente {
+public class Serpiente extends Oviparo{
 }

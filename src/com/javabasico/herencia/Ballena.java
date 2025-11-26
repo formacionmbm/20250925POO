@@ -1,4 +1,4 @@
 package com.javabasico.herencia;
 
-public class Ballena {
+public class Ballena extends Mamifero{
 }
