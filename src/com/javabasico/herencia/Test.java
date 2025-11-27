@@ -5,5 +5,8 @@ public class Test {
         Animal animal1 = new Animal();
         animal1.nacer();
 
+        Dalmata dalmata1 = new Dalmata();
+        dalmata1.nacer();
+
     }
 }
