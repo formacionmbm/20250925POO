@@ -2,6 +2,6 @@ package com.javabasico.herencia;
 
 public class Oviparo extends Animal{
     public Oviparo(){
-        System.out.println("Animal");
+        System.out.println("Oviparo");
     }
 }
