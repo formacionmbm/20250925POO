@@ -1,6 +1,6 @@
 package com.javabasico.herencia;
 
-public abstract class Animal extends Object implements IAnimal{
+public abstract class Animal{
     protected double peso;
 
     //Constructor/es
