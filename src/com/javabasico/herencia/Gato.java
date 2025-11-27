@@ -1,5 +1,7 @@
 package com.javabasico.herencia;
 
 public class Gato extends Mamifero{
-    public
+    public Gato(){
+        System.out.println("Mamifero");
+    }
 }

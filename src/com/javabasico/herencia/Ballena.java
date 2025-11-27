@@ -1,8 +1,7 @@
 package com.javabasico.herencia;
 
 public class Ballena extends Mamifero{
-
-    public Mamifero(){
-        System.out.println();
+    public Ballena(){
+        System.out.println("Mamifero");
     }
 }
