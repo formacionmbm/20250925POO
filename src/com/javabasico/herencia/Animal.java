@@ -1,18 +1,22 @@
 package com.javabasico.herencia;
 
-public class Animal {
+public abstract class Animal implements IAnimal{
 
     protected double peso;
 
-    protected void nacer(){
+    public Animal() {
+        System.out.println("Animal");
+    }
+
+    public void nacer(){
         System.out.println("Animal - Nacer");
     }
 
-    protected void vivir(){
+    public void vivir(){
         System.out.println("Animal - Vivir");
     }
 
-    protected void morir(){
+    public void morir(){
         System.out.println("Animal - Morir");
     }
 
